@@ -1,0 +1,30 @@
+* jest-preset-hao
+
+** Table of contents                                                  :TOC_3:
+- [[#jest-preset-hao][jest-preset-hao]]
+  - [[#usage][Usage]]
+    - [[#install][Install]]
+    - [[#extend][Extend]]
+  - [[#plugins][Plugins]]
+    - [[#decorators][Decorators]]
+
+** Usage
+*** Install
+
+    #+BEGIN_SRC sh
+      yarn add --dev lalohao/jest#develop
+    #+END_SRC
+
+*** Extend
+    Add to =package.json=:
+
+    #+BEGIN_SRC json
+      {
+        "jest": {
+          "preset": "jest-preset-hao"
+        }
+      }
+    #+END_SRC
+
+** Plugins
+*** Decorators

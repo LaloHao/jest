@@ -1,0 +1,11 @@
+{
+  "name": "jest-preset-hao",
+  "version": "1.0.0",
+  "repository": "https://github.com/LaloHao/jest",
+  "author": "Eduardo V. <lalohao@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "babel-jest": "^23.4.0",
+    "jest": "^23.4.1"
+  }
+}
